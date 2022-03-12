@@ -4,4 +4,4 @@ This a bootstrap for a website using React and Firebase. Authentication, routers
 
 call `npm start`.
 
-Note: This project is bootstrapped using (create-react-app)[https://create-react-app.dev/]
+Note: This project is bootstrapped using [create-react-app](https://create-react-app.dev)
